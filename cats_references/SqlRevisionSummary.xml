@@ -2401,6 +2401,10 @@
       <File Name="[MS-ODATAERRATA]-170816.docx" Type="DOCX" />
       <File Name="[MS-ODATAERRATA]-170816-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-01-04" Version="1.0" Class="None">
+      <File Name="[MS-ODATAERRATA]-190104.pdf" Type="PDF" />
+      <File Name="[MS-ODATAERRATA]-190104.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-ODATAJSON">
     <Revision Date="2013-06-11" Version="1.0" Class="New">
@@ -3824,6 +3828,10 @@
     <Revision Date="2017-08-16" Version="1.0" Class="None">
       <File Name="[MS-SQLERRATA]-170816.pdf" Type="PDF" />
       <File Name="[MS-SQLERRATA]-170816.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2019-01-04" Version="1.0" Class="None">
+      <File Name="[MS-SQLERRATA]-190104.pdf" Type="PDF" />
+      <File Name="[MS-SQLERRATA]-190104.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-SQLINTBLOGLP" />
